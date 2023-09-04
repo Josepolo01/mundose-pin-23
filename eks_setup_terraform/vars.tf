@@ -19,7 +19,6 @@ variable "arn_account"  {
 
 variable "arn_username" {
   type = string
-  default = "pin23-admin"
 }
 
 
