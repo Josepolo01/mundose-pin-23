@@ -1,7 +1,7 @@
 
 
 locals {
-  cluster_name = "mundose-eks-jp-2023"
+  cluster_name = "mundose-eks-jp-2023-04092023"
 }
 
 module "vpc" {
